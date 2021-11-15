@@ -1,9 +1,0 @@
-{
-  "avalanche": {
-    "version": 1,
-    "type": "generic",
-    "title": "EmreNesij2",
-    "img": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "desc": "deneme deneme emre nesij"
-  }
-}
