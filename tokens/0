@@ -1,9 +1,6 @@
 {
-  "avalanche": {
-    "version": 1,
-    "type": "json",
-    "title": "EmreNesij3",
-    "img": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "desc": "deneme deneme emre nesij"
-  }
+  "name": "Roger Federer",
+  "description": "The G.O.A.T.",
+  "image": "https://emredonmez98.github.io/metadataemre/0.jpg",
+  "attributes": ["Single Hand Backhand", "Sleek Style"]
 }
