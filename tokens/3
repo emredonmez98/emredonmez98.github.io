@@ -1,0 +1,19 @@
+{
+  "attributes":[
+     {
+        "trait_type":"forehand",
+        "value":"right"
+     },
+     {
+        "trait_type":"backhand",
+        "value":"double-handed"
+     },
+     {
+        "trait_type":"body",
+        "value":"ripped"
+     }
+  ],
+  "image":"https://emredonmez98.github.io/metadataemre/3.jpg",
+  "description":"The wall",
+  "name":"Andy Murray"
+}
