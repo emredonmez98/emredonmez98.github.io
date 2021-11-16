@@ -1,6 +1,19 @@
 {
-  "name": "Novak Djokovic",
-  "description": "The Showman",
-  "image": "https://emredonmez98.github.io/metadataemre/2.jpg",
-  "attributes": ["Great Comebacks", "Consistent"]
+  "attributes":[
+     {
+        "trait_type":"forehand",
+        "value":"right"
+     },
+     {
+        "trait_type":"backhand",
+        "value":"double-handed"
+     },
+     {
+        "trait_type":"body",
+        "value":"robot"
+     }
+  ],
+  "image":"https://emredonmez98.github.io/metadataemre/2.jpg",
+  "description":"The Showman version 2",
+  "name":"Novak Djokovic"
 }
