@@ -1,0 +1,19 @@
+{
+   "attributes":[
+      {
+         "trait_type":"forehand",
+         "value":"right"
+      },
+      {
+         "trait_type":"backhand",
+         "value":"single-handed"
+      },
+      {
+         "trait_type":"body",
+         "value":"sexy"
+      }
+   ],
+   "image":"https://emredonmez98.github.io/metadataemre/0.jpg",
+   "description":"The G.O.A.T. version 2",
+   "name":"Roger Federer"
+}
